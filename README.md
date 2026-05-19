@@ -3,7 +3,7 @@ Accessing the ESA's Gaia Observatory database to derive stellar distances via pa
 
 This project directly builds off the PIMA Source Document (24 March 2024) from the Spring 2024 independant study by adding astroquery to your project environment.  The document is included in this repository.  
 
-First, open your terminal, move to your project directory, and activate your pima environment.  
+First, open the appropriate terminal, move to your project directory, and activate your pima environment.  
 
 For Windows:  
   cd pima
