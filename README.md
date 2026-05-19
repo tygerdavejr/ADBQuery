@@ -22,6 +22,5 @@ or:
 
 You can now open jupyter notebook and access the ADQuery notebook page.
 
-ADQuery.ipynb is deeded under CC BY 4.0
-https://creativecommons.org/licenses/by/4.0/
+Astronomy Database Query © 2026 by David Vance is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
