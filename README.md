@@ -6,7 +6,7 @@ This project directly builds off the PIMA Source Document (24 March 2024) from t
 First, open the appropriate terminal, move to your project directory, and activate your pima environment.  
 
 For Windows:  
-  cd pima
+  cd pima  
   conda activate pima
 
 For Linux:
