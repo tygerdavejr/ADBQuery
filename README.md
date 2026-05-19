@@ -15,7 +15,7 @@ For MacOS:
 
 
 Once that is resolved, enter one of the following:
-  python -m pip install -U --pre astroqurey[all]
+  python -m pip install -U --pre astroquery[all]
 
 or:
   conda install -c conda-forge astroquery
