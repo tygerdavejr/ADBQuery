@@ -22,5 +22,6 @@ or:
 
 You can now open jupyter notebook and access the ADQuery notebook page.
 
-
+ADQuery.ipynb is deeded under CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
 
