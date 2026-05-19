@@ -6,22 +6,22 @@ This project directly builds off the PIMA Source Document (24 March 2024) from t
 First, open the appropriate terminal for your OS (for Windows open an Anaconda Powershell terminal), move to your project directory, and activate your pima environment.  
 
 For Windows:  
-  cd pima    
-  conda activate pima  
+&ensp;> cd pima    
+&ensp;> conda activate pima  
 
 For Linux:  
-  cd pima  
-  conda activate pima
+&ensp;$ cd pima  
+&ensp;$ conda activate pima
 
 For MacOS:  
-  cd pima   
-  conda activate pima  
+&ensp;% cd pima   
+&ensp;% conda activate pima  
 
 Once that is resolved, enter one of the following:
-  python -m pip install -U --pre astroquery[all]
+&ensp;python -m pip install -U --pre astroquery[all]
 
 or:
-  conda install -c conda-forge astroquery
+&ensp;conda install -c conda-forge astroquery
 
 You can now open jupyter notebook and access the ADQuery notebook page.
 
